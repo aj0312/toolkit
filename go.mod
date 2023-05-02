@@ -1,3 +1,3 @@
-module github.com/aj0312/go-mod-toolkit
+module github.com/aj0312/toolkit
 
 go 1.19
